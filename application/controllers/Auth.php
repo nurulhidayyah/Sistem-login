@@ -126,7 +126,7 @@ class Auth extends CI_Controller
             'protocol'  => 'smtp',
             'smtp_host' => 'ssl://smtp.gmail.com',
             'smtp_user' => 'nurulhidayah@unbaja.ac.id',
-            'smtp_pass' => 'wofgkqilhfwcdpuj',
+            'smtp_pass' => '1234567890',
             'smtp_port' => 465,
             'mailtype'  => 'html',
             'charset'   => 'utf-8',
